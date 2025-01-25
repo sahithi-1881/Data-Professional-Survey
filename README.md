@@ -32,4 +32,4 @@ This Power BI dashboard visualizes insights from a survey of 630 data profession
 
 **2. Programming Preference**: Python dominates the landscape, reflecting its importance in data-related roles.
 
-**3. Barriers to Entry**: Over 42% of respondents found entering the field neither easy nor difficult, while ~25% found it very easy.
+**3. Barriers to Entry**: Over 42% of respondents found entering the field neither easy nor difficult, while 4% found it very easy.

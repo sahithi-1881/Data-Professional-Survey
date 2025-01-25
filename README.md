@@ -1,6 +1,6 @@
 # Data-Professional-Survey
 
-<img src= "Health Dashboard.png">
+<img src= "Data Professional Survey Dashboard.png">
 
 ## Overview ##
 This Power BI dashboard visualizes insights from a survey of 630 data professionals across various roles, countries, and experience levels. The analysis covers salary trends, programming preferences, job satisfaction, and the perceived difficulty of entering the data industry.

@@ -14,15 +14,15 @@ This Power BI dashboard visualizes insights from a survey of 630 data profession
 
 -**Happiness Metrics**:
 
---**Work-Life Balance**: Average score of 5.74/10.
+-**Work-Life Balance**: Average score of 5.74/10.
 
---**Salary Satisfaction**: Average score of 4.27/10.
+-**Salary Satisfaction**: Average score of 4.27/10.
 
 -**Demographics**:
 
---**Total Survey Takers**: 630
+-**Total Survey Takers**: 630
 
---**Average Age**: 29.87 years
+-**Average Age**: 29.87 years
 
 ## Insights ##
 

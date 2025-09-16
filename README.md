@@ -1,4 +1,4 @@
-# Data-Professional-Survey
+# Data Professional Survey Dashboard
 
 <img src= "Data Professional Survey Dashboard.png">
 
